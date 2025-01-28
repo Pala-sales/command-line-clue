@@ -4,6 +4,8 @@ se agrega aca las rutas tomadas de momento , no me detecta un cambio en el readm
 
 cd game 
 ls  game 
+cat clues
+Pista encontrada "During the morning roll call, The Postman reported odd footprints leading to the greenhouse."
 cd houses 
 ls
 cat clue.txt
@@ -57,17 +59,27 @@ cd council chamber
 ls 
 cat clue 
 Nueva pista : " The investigation leads back to the houses." ( Porque si de ahi vengo D: ? )
+cd . . . . 
+ls 
+cd school ( ya no se a donde ir :( ))
+ls 
+cat objects 
+objeto encontrado : " Fountain Pen "
+cat persons 
+nada 
+
 
 ## Suspects
-- [ ] The Gardener
-- [ ] The Innkeeper
-- [ ] The Carpenter
+- [ x] The Gardener
+- [x ] The Innkeeper
+- [ x] The Carpenter
 
 ## Weapons
-- [ ] Brass Candlestick
-- [ ] Iron Poker
-- [ ] Brass Bell
+- [x ] Brass Candlestick
+- [x ] Iron Poker
+- [x ] Brass Bell
 
 ## Notes
 *Use this space to record your findings and deductions...*
 
+La escena del crimen es en Houses , pero eso ya lo sabia al revisar esa carpeta y las pistas adentro me mandan al playground , al bakery y al townhall y de nuevo a houses 
